@@ -11,4 +11,4 @@ This is a simple chatbot developed using Python. It can respond to basic user in
 1. Make sure Python is installed on your system.
 2. Open IDLE PYTHON.
 3. open the file and run it .
-4. orelse you can you visual studio code .
+4. or else you can you visual studio code .
